@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋Hello👋
+  👋Python|AI|JavaScript|WordPress 👋
 </h1>
 <table align="center">
   <tr>
